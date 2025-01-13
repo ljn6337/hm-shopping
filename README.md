@@ -1,4 +1,5 @@
 # hm-shopping
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+hm-shopping
+>>>>>>> 7b6efeb99e7c1797a5b413ae123989812e1fe4fa
